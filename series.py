@@ -33,8 +33,11 @@ grades
 
 # In[7]:
 
+print(grades)
 
 grades ['Eva']
+
+print(grades.Eva)
 
 
 # In[8]:
@@ -42,13 +45,15 @@ grades ['Eva']
 
 grades.Wally
 
+print(grades.Wally)
+
 
 # In[10]:
 
 
 grades.values
 
-
+print(grades.values)
 # In[ ]:
 
 
